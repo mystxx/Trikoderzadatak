@@ -1,0 +1,101 @@
+/* 
+    Document   : style.css
+    Created on : 13.07.2010., 17:01:51
+    Author     : Hrvoje
+    Description:
+        Trikoder Zadatak Stylesheet
+*/
+
+body {
+    margin:0px;
+    padding:0px;
+    font-family:Arial;
+}
+
+.left {
+
+    width:80%;
+    float:left;
+    padding:5px;
+
+
+}
+
+.proizvod {
+    width:100%;
+    border-bottom:1px solid #0099cc;
+    height:100px;
+    padding:5px;
+
+}
+
+.slika {
+
+    width:100px;
+    height:100%;
+    border:1px solid blue;
+    float:left;
+    
+}
+
+.slikica {
+    margin-top:2px;
+}
+
+.naslov {
+    font-size:15px;
+    font-family:Verdana;
+    text-align:left;
+    float:left;
+    height:auto;
+
+}
+
+.info {
+    float:left;
+
+}
+
+.tekst {
+    float:left;
+    width:100%;
+
+}
+
+.right {
+    float:right;
+    width:18%;
+    text-align:center;
+
+}
+
+.oil {
+    width:100%;
+    float:left;
+    border:1px solid #0099cc;
+
+
+}
+
+.bottom {
+
+    width:100%;
+    text-align:center;
+    height:200px;
+    margin:5px;
+    padding:5px;
+
+
+}
+
+.fuel {
+    width:200px;
+    float:left;
+    border:1px solid #0099cc;
+    height:200px;
+    margin:2px;
+
+
+}
+
+
